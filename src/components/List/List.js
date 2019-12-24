@@ -1,9 +1,18 @@
 import React from 'react';
+import Product from './Product/Product';
+import uniqueId from 'uniqid';
+import content from '../../content';
 
 
-const List = () => { 
+const List = (props) => { 
+  
   return (
-    <h1>List</h1>
+    <ul>
+      {content.productList.map(
+        item => (
+          <Product item={item} key={uniqueId()}/>
+        ))}
+    </ul>
   );
 }
 

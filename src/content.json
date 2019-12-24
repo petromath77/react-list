@@ -14,5 +14,32 @@
       "name": "About",
       "href": "/about"
     }
+  ],
+
+  "productList": [
+    {
+      "name": "ErgyDetox",
+      "image": "https://www.obonparis.com/uploads/MONGE%20SUPPLEMENTS/PHARMACIE%20MONGE-EXTRA-3.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci nulla pellentesque dignissim enim sit amet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Massa tincidunt nunc pulvinar sapien. Non sodales neque sodales ut. Pretium quam vulputate dignissim suspendisse in est ante in.",
+      "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "release": "2018",
+      "complex": "A B C D E"
+    },
+    {
+      "name": "DareasBeauty",
+      "image": "https://dareas-beauty.ru/wp-content/uploads/2018/08/IMG_20180813_131724_666.jpg",
+      "description": "Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Posuere sollicitudin aliquam ultrices sagittis orci. Vitae congue eu consequat ac felis donec et odio pellentesque. Rhoncus est pellentesque elit ullamcorper. Volutpat consequat mauris nunc congue nisi vitae. Hac habitasse platea dictumst vestibulum rhoncus.",
+      "short": "Ullamcorper velit sed ullamcorper morbi tincidunt ornare",
+      "release": "2017",
+      "complex": "C D E B11"
+    },
+    {
+      "name": "VISION",
+      "image": "https://vision.group/img/france-product-2.png",
+      "description": "Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Posuere sollicitudin aliquam ultrices sagittis orci. Vitae congue eu consequat ac felis donec et odio pellentesque. Rhoncus est pellentesque elit ullamcorper. Volutpat consequat mauris nunc congue nisi vitae. Hac habitasse platea dictumst vestibulum rhoncus.",
+      "short": "Posuere sollicitudin aliquam ultrices sagittis orci",
+      "release": "2019",
+      "complex": "B11 D"
+    }
   ]
 }

@@ -9,6 +9,7 @@ import MenuHeader from './components/MenuHeader/MenuHeader';
 import Home from './components/Home/Home';
 import About from './components/About/About';
 import List from './components/List/List';
+import ProductDetail from './components/List/ProductDetail/ProductDetail';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <MenuHeader />
       <Switch>
         <Route exact path="/" component={Home} />
+        <Route path="/list/:name" component={ProductDetail} />
         <Route path="/list" component={List} />
         <Route path="/about" component={About}/>
       </Switch>
